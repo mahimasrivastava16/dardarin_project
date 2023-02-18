@@ -1,4 +1,5 @@
-# dardarin_project
+# dardarin_Bioactivity_ prediction_app
+
 
 Quantitative Structure-Activity Relationship (QSAR) models are powerful tools used in drug discovery to predict the biological activity of small molecules. Machine learning algorithms have been widely used in building QSAR models because they can learn patterns and relationships in large datasets. In this context, I present a QSAR model built using machine learning, trained on the ChEMBL target database for Leucine-rich repeat serine/threonine-protein kinase 2 (LRRK2) molecule.
 
